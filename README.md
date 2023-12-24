@@ -14,7 +14,7 @@
 + [Java SE Development Kit 20.0.1](https://www.oracle.com/java/technologies/javase/jdk20-archive-downloads.html)
     - JAVA_HOME
       
-      Add new system variabel:
+      Add a new system variabel:
       
       <img width="463" alt="image" src="https://github.com/pitears/swaglabs-appium-mobile-automation/assets/125880337/85f012a5-dca6-459b-b078-ee8ce9563a59">
       <br>
@@ -23,7 +23,7 @@
 + [Android Studio 2023.1.1.26](https://developer.android.com/studio?gclid=CjwKCAiAhJWsBhAaEiwAmrNyq9Uf5oAJCJ7Ve6C5cG5kYlfItd8GFkkI_2dd0c5XCxdCvRgmF8tP3BoCet0QAvD_BwE&gclsrc=aw.ds)
   - ANDROID_HOME
     
-     Add new system variabel:
+     Add a new system variabel:
     
     <img width="463" alt="image" src="https://github.com/pitears/swaglabs-appium-mobile-automation/assets/125880337/85f012a5-dca6-459b-b078-ee8ce9563a59">
     <br>
@@ -31,7 +31,7 @@
 
   - Platform Tools
     
-    Add platform-tools path:
+    Add the platform-tools path to the system’s Path variable:
     
     <img width="463" alt="image" src="https://github.com/pitears/swaglabs-appium-mobile-automation/assets/125880337/4991914a-13de-440e-a1ef-082fb812702f">
     <br>
@@ -42,7 +42,7 @@
   ```powershell
   npm install -g npm
   ```
-  Add NPM path:
+  Add the npm path to the system’s Path variable:
 
   <img width="463" alt="image" src="https://github.com/pitears/swaglabs-appium-mobile-automation/assets/125880337/4991914a-13de-440e-a1ef-082fb812702f">
   <br>
