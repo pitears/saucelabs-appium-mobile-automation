@@ -2,12 +2,12 @@
 
 ## Test Scenario
 
-| Scenario Name | Test Scenario ID| Test Scenario Description |
-| :---: | :---: | :---: |
-| Login | TS-001 | As a user, I should be able to login using valid username and valid password | 
-| Login | TS-002 | As a user, I should not be able to login using valid username and invalid password | 
-| Sorting | TS-003 | As a user, I should be able to choose price low to high | 
-| Checkout | TS-004| As a user, I should be able to order and checkout multiple products | 
+| Scenario Name | Scenario Description | Test Case ID | Test Case Description |
+| :---: | :---: |:---: | :---: |
+| Login | As a user, I want to ensure that login feature is working properly | TC-001 | A user should be able to login using valid username and valid password | 
+| Login | As a user, I want to ensure that login feature is working properly | TC-002 | A user should not be able to login using valid username and invalid password | 
+| Sorting | As a user, I want to ensure that sorting feature is working properly | TC-003 | A user should be able to choose price low to high | 
+| Checkout | As a user, I want to ensure that checkout process functions is working properly | TC-004 | A user should be able to order and checkout multiple products | 
 
 ## Pre-requisites
 + [Intellij Idea 2023.2.1](https://www.jetbrains.com/idea/download/other.html)
