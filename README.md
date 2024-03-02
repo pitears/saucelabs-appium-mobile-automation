@@ -1,4 +1,4 @@
-# Appium Automation for Ssauce Labs Mobile App
+# Appium Automation for Swag Labs Mobile App
 
 ## Test Scenario
 
